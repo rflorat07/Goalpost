@@ -10,7 +10,7 @@ import UIKit
 
 class GoalsVC: UIViewController {
     
-    // Outlet
+    //Outlet
     @IBOutlet weak var tableView: UITableView!
     
     override func viewDidLoad() {
